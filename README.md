@@ -1,5 +1,5 @@
 # AndroidWifiScanner
-# Known to work with Android Oreo (8.1) and below.
+- Known to work with Android Oreo (8.1) and below.
 
 # For testing:
 - Download wifiscanner.apk
