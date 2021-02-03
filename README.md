@@ -5,3 +5,6 @@
 - Download wifiscanner.apk
 - Go to your settings and allow installation of apps from unknown sources
 - Install the apk
+
+# Example:
+ - https://imgur.com/a/8OxbLJZ
