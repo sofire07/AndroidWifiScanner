@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ACO 430 Wifi Scanner</string>
+    <string name="scan_button">Scan</string>
+    <string name="welcome_text">Wifi Scanner</string>
+</resources>
